@@ -19,4 +19,4 @@ To train the implemented model, use `python train.py --no-gpu`. To get more fami
 
 An example of execution is:
 
-[Sample Execution](docs/python.PNG)
+![Sample Execution](docs/python.PNG)
