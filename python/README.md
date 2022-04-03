@@ -14,3 +14,9 @@
 ## Execution
 
 To train the implemented model, use `python train.py --no-gpu`. To get more familiar with the script, use `python train.py --help`. You can also visualize some samples by passing the option `--visual`.
+
+## Results 
+
+An example of execution is:
+
+[Sample Execution](docs/python.PNG)
