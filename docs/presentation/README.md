@@ -1,6 +1,6 @@
-# Thesis presentation
+# Presentation
 
-LaTeX presentation corresponding to my thesis.
+LaTeX presentation for this project.
 
 ### Installation
 
@@ -11,4 +11,4 @@ Tested on Windows 10 only
 
 ### Usage
 
-`pympress thesis-approach.pdf`
+`pympress presentation.pdf`
